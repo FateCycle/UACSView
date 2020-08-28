@@ -1,0 +1,127 @@
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Authorization.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Authorization.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Common.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.TagService.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.TagService.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\TcmControl.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Forms.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Logging.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\IBM.Data.DB2.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Utility.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.DBServer.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\log4net.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSDAL.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSPopupForm.pdb
+D:\iPlature\SF_HOME\app\form\UACSControls.dll
+D:\iPlature\SF_HOME\app\form\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\UACSHMI\lib\UACSControls.dll
+C:\UACSHMI\lib\UACSControls.pdb
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojAssemblyReference.cache
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.cache
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.CoreCompileInputs.cache
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.CopyComplete
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb

@@ -1,0 +1,267 @@
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Authorization.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Common.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.TagService.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.TagService.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Logging.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\IBM.Data.DB2.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Utility.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.DBServer.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\log4net.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSDAL.pdb
+D:\iPlature\SF_HOME\app\form\UACSPopupForm.dll
+D:\iPlature\SF_HOME\app\form\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\UACSHMI\lib\UACSPopupForm.dll
+C:\UACSHMI\lib\UACSPopupForm.pdb
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojAssemblyReference.cache
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.cache
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CoreCompileInputs.cache
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CopyComplete
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\2345Downloads\新建文件夹 (3)\lib\UACSPopupForm.dll
+D:\2345Downloads\新建文件夹 (3)\lib\UACSPopupForm.pdb
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\2345Downloads\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\lib\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\lib\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\SG_APP_NEW\无人化项目#86调试\lib\UACSPopupForm.dll
+D:\SG_APP_NEW\无人化项目#86调试\lib\UACSPopupForm.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CoreCompileInputs.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CopyComplete
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.csprojAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_UpdateLineSlabinfo.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.Form_UpdateLineSlabinfo.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojAssemblyReference.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_UpdateLineSlabinfo.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CoreCompileInputs.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CopyComplete
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+D:\HMI_BAK\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojAssemblyReference.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_UpdateLineSlabinfo.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\iPlature\SF_HOME\app\form\UACSPopupForm.dll
+C:\iPlature\SF_HOME\app\form\UACSPopupForm.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csprojAssemblyReference.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_CareMessage02.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.Form_UpdateLineSlabinfo.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.CraneMonitor.Form_PopCreateOrder.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSPopupForm\obj\Debug\UACSPopupForm.CraneMonitor.Form_PopEditOrder.resources

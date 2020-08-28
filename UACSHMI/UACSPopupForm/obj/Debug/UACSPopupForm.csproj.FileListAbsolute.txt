@@ -1,0 +1,71 @@
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Authorization.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Common.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.TagService.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.TagService.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Logging.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\IBM.Data.DB2.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Utility.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.DBServer.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\Baosight.iSuperframe.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\log4net.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\bin\Debug\UACSDAL.pdb
+D:\iPlature\SF_HOME\app\form\UACSPopupForm.dll
+D:\iPlature\SF_HOME\app\form\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\UACSHMI\lib\UACSPopupForm.dll
+C:\UACSHMI\lib\UACSPopupForm.pdb
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojAssemblyReference.cache
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.cache
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CoreCompileInputs.cache
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.CopyComplete
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\lib\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\lib\UACSPopupForm.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmModeSwitchover.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmParkingDetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmSaddleMetail.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.FrmYardToYardRequest.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.PopAlarmCurrent.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹 (2)\UACSHMI\UACSPopupForm\obj\Debug\UACSPopupForm.pdb

@@ -1,0 +1,545 @@
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Authorization.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Authorization.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Common.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.TagService.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.TagService.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\TcmControl.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Forms.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Logging.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\IBM.Data.DB2.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Utility.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.DBServer.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\Baosight.iSuperframe.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\log4net.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSDAL.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\bin\Debug\UACSPopupForm.pdb
+D:\iPlature\SF_HOME\app\form\UACSControls.dll
+D:\iPlature\SF_HOME\app\form\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\UACSHMI\lib\UACSControls.dll
+C:\UACSHMI\lib\UACSControls.pdb
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojAssemblyReference.cache
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.cache
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.CoreCompileInputs.cache
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.CopyComplete
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSControls.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSControls\obj\Debug\UACSControls.pdb
+D:\2345Downloads\新建文件夹 (3)\lib\UACSControls.dll
+D:\2345Downloads\新建文件夹 (3)\lib\UACSControls.pdb
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.dll
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.pdb
+D:\2345Downloads\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.UserTREAMENTDATE.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\lib\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\lib\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\SG_APP_NEW\无人化项目#86调试\lib\UACSControls.dll
+D:\SG_APP_NEW\无人化项目#86调试\lib\UACSControls.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.csproj.CoreCompileInputs.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.csproj.CopyComplete
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.dll
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.csprojAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSControls\obj\Debug\UACSControls.CraneMonitor.TrainParkingControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.TrainParkingControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.MANUALControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.MANUALControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CraneMonitor.TrainParkingControl.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSControls\obj\Debug\UACSControls.pdb
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csprojAssemblyReference.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conArea.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.MANUALControl.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.TrainParkingControl.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.CoreCompileInputs.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.CopyComplete
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.dll
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.pdb
+D:\HMI_BAK\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderDownLocationControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csprojAssemblyReference.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.MANUALControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderDownLocationControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.TrainParkingControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSControls\obj\Debug\UACSControls.pdb
+C:\iPlature\SF_HOME\app\form\UACSControls.dll.config
+C:\iPlature\SF_HOME\app\form\UACSControls.dll
+C:\iPlature\SF_HOME\app\form\UACSControls.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.csprojAssemblyReference.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conArea.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conOffinePackingSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.conPalpit.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conParkingCar.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conCrane.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conCraneStatus.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conStockSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.conUnitSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.FrmParkingStatusShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.FrmSaddleShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.LineSlabInfoControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.MANUALControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByCurrentControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderByManualControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.OrderDownLocationControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.ParkingStausControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.TrainParkingControl.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.UserMessage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.UserMessageShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.ParkingState.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.ParkLaserOut.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.Properties.Resources.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.Resource1.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CoilEntryMode.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddleButton.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CoilUnitSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CoilUnitStatus.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACS.conEntrySpecAction.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.csproj.GenerateResource.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.dll
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.BaseForm.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.CustomGrpOperate.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.CustomGrpTitle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSControls\obj\Debug\UACSControls.CraneMonitor.CustomPnlContainer.resources

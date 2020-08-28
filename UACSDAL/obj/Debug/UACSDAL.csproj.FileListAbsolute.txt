@@ -1,0 +1,102 @@
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\UACSDAL.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.Authorization.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.Authorization.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.Common.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.TagService.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.TagService.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.Forms.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.Logging.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\IBM.Data.DB2.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\Baosight.iSuperframe.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\bin\Debug\log4net.dll
+D:\iPlature\SF_HOME\app\form\UACSDAL.dll
+D:\iPlature\SF_HOME\app\form\UACSDAL.pdb
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSDAL.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\obj\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSDAL\obj\Debug\UACSDAL.pdb
+C:\UACSHMI\lib\UACSDAL.dll
+C:\UACSHMI\lib\UACSDAL.pdb
+C:\UACSHMI\UACSDAL\obj\Debug\UACSDAL.csprojAssemblyReference.cache
+C:\UACSHMI\UACSDAL\obj\Debug\UACSDAL.csproj.CoreCompileInputs.cache
+C:\UACSHMI\UACSDAL\obj\Debug\UACSDAL.csproj.CopyComplete
+C:\UACSHMI\UACSDAL\obj\Debug\UACSDAL.dll
+C:\UACSHMI\UACSDAL\obj\Debug\UACSDAL.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSDAL.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSDAL.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSDAL\obj\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\2345Downloads\新建文件夹 (3)\lib\UACSDAL.dll
+D:\2345Downloads\新建文件夹 (3)\lib\UACSDAL.pdb
+D:\2345Downloads\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.dll
+D:\2345Downloads\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\2345Downloads\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\lib\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\lib\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\SG_APP_NEW\无人化项目#86调试\lib\UACSDAL.dll
+D:\SG_APP_NEW\无人化项目#86调试\lib\UACSDAL.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.csproj.CoreCompileInputs.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.csproj.CopyComplete
+D:\SG_APP_NEW\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.dll
+D:\SG_APP_NEW\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.csprojAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSDAL\obj\Debug\UACSDAL.dll
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSDAL\obj\Debug\UACSDAL.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csprojResolveAssemblyReference.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csproj.CoreCompileInputs.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csproj.CopyComplete
+D:\HMI_BAK\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.dll
+D:\HMI_BAK\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.dll
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSDAL\obj\Debug\UACSDAL.csprojAssemblyReference.cache
+C:\iPlature\SF_HOME\app\form\UACSDAL.dll
+C:\iPlature\SF_HOME\app\form\UACSDAL.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSDAL\obj\Debug\UACSDAL.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSDAL\obj\Debug\UACSDAL.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSDAL\obj\Debug\UACSDAL.dll
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSDAL\obj\Debug\UACSDAL.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSDAL\obj\Debug\UACSDAL.csprojAssemblyReference.cache

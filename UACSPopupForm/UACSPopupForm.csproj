@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3958EB30-FE44-4BD0-BA55-58805E56C17E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UACSPopupForm</RootNamespace>
+    <AssemblyName>UACSPopupForm</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>C:\iPlature\SF_HOME\app\form\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Baosight.iSuperframe.Authorization.Interface">
+      <HintPath>..\lib\Baosight.iSuperframe.Authorization.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.Common">
+      <HintPath>..\lib\Baosight.iSuperframe.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.TagService.Controls">
+      <HintPath>..\lib\Baosight.iSuperframe.TagService.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.TagService.Interface">
+      <HintPath>..\lib\Baosight.iSuperframe.TagService.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CraneMonitor\Form_CareMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_CareMessage.Designer.cs">
+      <DependentUpon>Form_CareMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_CareMessage02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_CareMessage02.Designer.cs">
+      <DependentUpon>Form_CareMessage02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_PopCreateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_PopCreateOrder.Designer.cs">
+      <DependentUpon>Form_PopCreateOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_PopEditOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_PopEditOrder.Designer.cs">
+      <DependentUpon>Form_PopEditOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_UpdateLineSlabinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\Form_UpdateLineSlabinfo.Designer.cs">
+      <DependentUpon>Form_UpdateLineSlabinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmModeSwitchover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmModeSwitchover.designer.cs">
+      <DependentUpon>FrmModeSwitchover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmParkingDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmParkingDetail.designer.cs">
+      <DependentUpon>FrmParkingDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmSaddleMetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmSaddleMetail.Designer.cs">
+      <DependentUpon>FrmSaddleMetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmYardToYardRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\FrmYardToYardRequest.Designer.cs">
+      <DependentUpon>FrmYardToYardRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CraneMonitor\PopAlarmCurrent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CraneMonitor\PopAlarmCurrent.designer.cs">
+      <DependentUpon>PopAlarmCurrent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CraneMonitor\Form_CareMessage.resx">
+      <DependentUpon>Form_CareMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\Form_CareMessage02.resx">
+      <DependentUpon>Form_CareMessage02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\Form_PopCreateOrder.resx">
+      <DependentUpon>Form_PopCreateOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\Form_PopEditOrder.resx">
+      <DependentUpon>Form_PopEditOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\Form_UpdateLineSlabinfo.resx">
+      <DependentUpon>Form_UpdateLineSlabinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\FrmModeSwitchover.resx">
+      <DependentUpon>FrmModeSwitchover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\FrmParkingDetail.resx">
+      <DependentUpon>FrmParkingDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\FrmSaddleMetail.resx">
+      <DependentUpon>FrmSaddleMetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\FrmYardToYardRequest.resx">
+      <DependentUpon>FrmYardToYardRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CraneMonitor\PopAlarmCurrent.resx">
+      <DependentUpon>PopAlarmCurrent.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UACSDAL\UACSDAL.csproj">
+      <Project>{d3f6ff21-68b2-40e4-9d1c-603eb926c87c}</Project>
+      <Name>UACSDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FD555CF-99F8-413B-B2F2-30D263DCA767}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UACSView</RootNamespace>
+    <AssemblyName>UACSView</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>C:\iPlature\SF_HOME\app\form\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Baosight.iSuperframe.Authorization, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Baosight.iSuperframe.Authorization.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.Authorization.Interface, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Baosight.iSuperframe.Authorization.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.Common">
+      <HintPath>..\lib\Baosight.iSuperframe.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.Exceptions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\iPlature\SF_HOME\Baosight.iSuperframe.Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.Forms">
+      <HintPath>D:\vsts\ZJ1550\Source\UACS_HMI\HMI_OF_REPOSITORIES\MODEL_OF_REPOSITORIES\bin\Debug\Baosight.iSuperframe.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.TagService.Controls, Version=1.0.5634.30853, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Baosight.iSuperframe.TagService.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.TagService.Interface, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Baosight.iSuperframe.TagService.Interface.dll</HintPath>
+    </Reference>
+    <Reference Include="Baosight.iSuperframe.Utility, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\Baosight.iSuperframe.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.C1DataExtender.2, Version=2.0.20113.81, Culture=neutral, PublicKeyToken=7c4b5683f80b910e, processorArchitecture=MSIL" />
+    <Reference Include="C1.C1Excel.2, Version=2.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.C1Report.2, Version=2.0.20171.248, Culture=neutral, PublicKeyToken=594a0605db190bb9, processorArchitecture=MSIL" />
+    <Reference Include="C1.Data.2, Version=2.0.20141.273, Culture=neutral, PublicKeyToken=900b028620cd3a1b, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Chart.2, Version=2.0.20072.17156, Culture=neutral, PublicKeyToken=a22e16972c085838, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\iPlature\SF_HOME\app\form\C1.Win.C1Chart.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Command.2, Version=2.0.20072.19209, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\iPlature\SF_HOME\app\form\C1.Win.C1Command.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Editor.2, Version=2.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1FlexGrid.2, Version=2.6.20072.339, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\iPlature\SF_HOME\app\form\C1.Win.C1FlexGrid.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Input.2, Version=2.0.20072.33009, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\iPlature\SF_HOME\app\form\C1.Win.C1Input.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1List.2, Version=2.0.20171.248, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Ribbon.2, Version=2.0.20093.221, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\iPlature\SF_HOME\app\form\C1.Win.C1Ribbon.2.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Sizer.2, Version=2.1.20072.18, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\iPlature\SF_HOME\app\form\C1.Win.C1Sizer.2.dll</HintPath>
+    </Reference>
+    <Reference Include="CodeProject.Group_Button, Version=1.0.6477.37266, Culture=neutral, PublicKeyToken=null" />
+    <Reference Include="IBM.Data.DB2, Version=9.0.0.2, Culture=neutral, PublicKeyToken=7c307b91aa13d208, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\iPlature\SF_HOME\IBM.Data.DB2.dll</HintPath>
+    </Reference>
+    <Reference Include="L2Tools.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\山钢项目资料\UACS_HMI(宝新)New\lib\L2Tools.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="L2Tools.Functions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\山钢项目资料\UACS_HMI(宝新)New\lib\L2Tools.Functions.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\iPlature\SF_HOME\app\form\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TcmControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\vsts\ZJ1550\Source\UACS_HMI\HMI_OF_REPOSITORIES\MODEL_OF_REPOSITORIES\bin\Debug\TcmControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CraneLiftActual2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CraneLiftActual2.Designer.cs">
+      <DependentUpon>Form_CraneLiftActual2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View_CarneMeage\Form_AlarmQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_AlarmQuery.Designer.cs">
+      <DependentUpon>Form_AlarmQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_AlarmQuery1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_AlarmQuery1.Designer.cs">
+      <DependentUpon>Form_AlarmQuery1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneCautionManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneCautionManage.Designer.cs">
+      <DependentUpon>Form_CraneCautionManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneCreateOrderManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneCreateOrderManager.Designer.cs">
+      <DependentUpon>Form_CraneCreateOrderManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CranefinishOrderManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CranefinishOrderManager.Designer.cs">
+      <DependentUpon>Form_CranefinishOrderManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneJobResultAnalysis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneJobResultAnalysis.Designer.cs">
+      <DependentUpon>Form_CraneJobResultAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneLiftActual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneLiftActual.Designer.cs">
+      <DependentUpon>Form_CraneLiftActual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneMessage01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneMessage01.Designer.cs">
+      <DependentUpon>Form_CraneMessage01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneMessage02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneMessage02.Designer.cs">
+      <DependentUpon>Form_CraneMessage02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneMessage03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneMessage03.Designer.cs">
+      <DependentUpon>Form_CraneMessage03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneWorkResultAnalyze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_CraneWorkResultAnalyze.Designer.cs">
+      <DependentUpon>Form_CraneWorkResultAnalyze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_FrmSaddleShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_FrmSaddleShow.Designer.cs">
+      <DependentUpon>Form_FrmSaddleShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_L3MsgManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_L3MsgManage.Designer.cs">
+      <DependentUpon>Form_L3MsgManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_OrderManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_OrderManage.Designer.cs">
+      <DependentUpon>Form_OrderManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_ParkingSpaceUnLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\Form_ParkingSpaceUnLoad.Designer.cs">
+      <DependentUpon>Form_ParkingSpaceUnLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\UserWinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\UserWinForm.Designer.cs">
+      <DependentUpon>UserWinForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CarneMeage\UUU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CarneMeage\UUU.Designer.cs">
+      <DependentUpon>UUU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CraneMonitor\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CraneMonitor\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CraneMonitor\Form_library_Monitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CraneMonitor\Form_library_Monitor.Designer.cs">
+      <DependentUpon>Form_library_Monitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_CraneMonitor\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_CraneMonitor\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\CarNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\CarNo.designer.cs">
+      <DependentUpon>CarNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\FrmCarEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\FrmCarEntry.designer.cs">
+      <DependentUpon>FrmCarEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\PorductMatManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\PorductMatManage.designer.cs">
+      <DependentUpon>PorductMatManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\SelectCoilByL3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\SelectCoilByL3Form.designer.cs">
+      <DependentUpon>SelectCoilByL3Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\SelectCoilForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\SelectCoilForm.designer.cs">
+      <DependentUpon>SelectCoilForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\SubFrmGetL3Stowage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\SubFrmGetL3Stowage.designer.cs">
+      <DependentUpon>SubFrmGetL3Stowage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\TagCarArrive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\TagCarArrive.designer.cs">
+      <DependentUpon>TagCarArrive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\TagLaserInEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\TagLaserInEnd.designer.cs">
+      <DependentUpon>TagLaserInEnd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\TagLaserInStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\TagLaserInStart.designer.cs">
+      <DependentUpon>TagLaserInStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Packing\TruckStowageInT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Packing\TruckStowageInT.designer.cs">
+      <DependentUpon>TruckStowageInT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_ExitLineSaddle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_ExitLineSaddle.Designer.cs">
+      <DependentUpon>VIEW_ExitLineSaddle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_H145EntryLineSaddle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_H145EntryLineSaddle.Designer.cs">
+      <DependentUpon>VIEW_H145EntryLineSaddle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_ChainLineSaddle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_ChainLineSaddle.Designer.cs">
+      <DependentUpon>VIEW_ChainLineSaddle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_H145ExitLineSaddle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEW_UnitSaddle\VIEW_H145ExitLineSaddle.Designer.cs">
+      <DependentUpon>VIEW_H145ExitLineSaddle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View_CarneMeage\Form_AlarmQuery.resx">
+      <DependentUpon>Form_AlarmQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneCautionManage.resx">
+      <DependentUpon>Form_CraneCautionManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneCreateOrderManager.resx">
+      <DependentUpon>Form_CraneCreateOrderManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CranefinishOrderManager.resx">
+      <DependentUpon>Form_CranefinishOrderManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneJobResultAnalysis.resx">
+      <DependentUpon>Form_CraneJobResultAnalysis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneLiftActual.resx">
+      <DependentUpon>Form_CraneLiftActual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneMessage01.resx">
+      <DependentUpon>Form_CraneMessage01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneMessage02.resx">
+      <DependentUpon>Form_CraneMessage02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneMessage03.resx">
+      <DependentUpon>Form_CraneMessage03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_CraneWorkResultAnalyze.resx">
+      <DependentUpon>Form_CraneWorkResultAnalyze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_FrmSaddleShow.resx">
+      <DependentUpon>Form_FrmSaddleShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_L3MsgManage.resx">
+      <DependentUpon>Form_L3MsgManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_OrderManage.resx">
+      <DependentUpon>Form_OrderManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\Form_ParkingSpaceUnLoad.resx">
+      <DependentUpon>Form_ParkingSpaceUnLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CarneMeage\UserWinForm.resx">
+      <DependentUpon>UserWinForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CraneMonitor\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CraneMonitor\Form_library_Monitor.resx">
+      <DependentUpon>Form_library_Monitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_CraneMonitor\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\CarNo.resx">
+      <DependentUpon>CarNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\FrmCarEntry.resx">
+      <DependentUpon>FrmCarEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\PorductMatManage.resx">
+      <DependentUpon>PorductMatManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\SelectCoilByL3Form.resx">
+      <DependentUpon>SelectCoilByL3Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\SelectCoilForm.resx">
+      <DependentUpon>SelectCoilForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\SubFrmGetL3Stowage.resx">
+      <DependentUpon>SubFrmGetL3Stowage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\TagCarArrive.resx">
+      <DependentUpon>TagCarArrive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\TagLaserInEnd.resx">
+      <DependentUpon>TagLaserInEnd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\TagLaserInStart.resx">
+      <DependentUpon>TagLaserInStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Packing\TruckStowageInT.resx">
+      <DependentUpon>TruckStowageInT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW_UnitSaddle\VIEW_ExitLineSaddle.resx">
+      <DependentUpon>VIEW_ExitLineSaddle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW_UnitSaddle\VIEW_H145EntryLineSaddle.resx">
+      <DependentUpon>VIEW_H145EntryLineSaddle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW_UnitSaddle\VIEW_ChainLineSaddle.resx">
+      <DependentUpon>VIEW_ChainLineSaddle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEW_UnitSaddle\VIEW_H145ExitLineSaddle.resx">
+      <DependentUpon>VIEW_H145ExitLineSaddle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\UACSControls\UACSControls.csproj">
+      <Project>{1abb3661-e6d6-44ea-946d-64b5a4e2b88f}</Project>
+      <Name>UACSControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UACSDAL\UACSDAL.csproj">
+      <Project>{d3f6ff21-68b2-40e4-9d1c-603eb926c87c}</Project>
+      <Name>UACSDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UACSPopupForm\UACSPopupForm.csproj">
+      <Project>{3958eb30-fe44-4bd0-ba55-58805e56c17e}</Project>
+      <Name>UACSPopupForm</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Export.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title-bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\export %281%29.png" />
+    <Content Include="Resources\search %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,691 @@
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSView.exe
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSView.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.Common.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.Forms.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\log4net.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\TcmControl.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSControls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSDAL.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSPopupForm.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.Authorization.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.TagService.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.TagService.Interface.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.Logging.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\IBM.Data.DB2.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.Utility.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.DBServer.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\Baosight.iSuperframe.Controls.dll
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSControls.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSDAL.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\bin\Debug\UACSPopupForm.pdb
+D:\iPlature\SF_HOME\app\form\UACSView.exe
+D:\iPlature\SF_HOME\app\form\UACSView.pdb
+E:\代码\UACSHMI\UACSView\obj\Debug\UACSView.exe
+E:\代码\UACSHMI\UACSView\obj\Debug\UACSView.pdb
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSView.exe
+C:\Users\陈涛\Desktop\UACSHMI\lib\UACSView.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.View_CraneMonitor.Z12_library_Monitor.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.exe
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.pdb
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+C:\Users\陈涛\Desktop\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+C:\UACSHMI\lib\UACSView.exe
+C:\UACSHMI\lib\UACSView.pdb
+C:\UACSHMI\UACSView\obj\Debug\UACSView.csprojAssemblyReference.cache
+C:\UACSHMI\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.csproj.GenerateResource.cache
+C:\UACSHMI\UACSView\obj\Debug\UACSView.csproj.CoreCompileInputs.cache
+C:\UACSHMI\UACSView\obj\Debug\UACSView.csproj.CopyComplete
+C:\UACSHMI\UACSView\obj\Debug\UACSView.exe
+C:\UACSHMI\UACSView\obj\Debug\UACSView.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.exe
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSView.exe
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\lib\UACSView.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+C:\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.exe
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSView.exe
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\lib\UACSView.pdb
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+C:\Users\陈涛\Desktop\新建文件夹 (2)\新建文件夹\UACSHMI\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.exe
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.pdb
+D:\2345Downloads\新建文件夹 (3)\lib\UACSView.exe
+D:\2345Downloads\新建文件夹 (3)\lib\UACSView.pdb
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\2345Downloads\新建文件夹 (3)\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.exe
+D:\2345Downloads\新建文件夹 (31)\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\调试版\新建文件夹 (3)\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试版\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\无人行车项目\新建文件夹新版\调试版86#\无人化项目修改版\无人化项目#86调试一版\UACSView\obj\Debug\UACSView.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.csprojAssemblyReference.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.csproj.GenerateResource.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.csproj.CoreCompileInputs.cache
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.csproj.CopyComplete
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.exe
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.pdb
+D:\SG_APP_NEW\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\韶钢前台\无人化项目#86调试\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CraneMonitor._2250_library_Monitor.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.VIEW_EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试备份版\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.csprojResolveAssemblyReference.cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.csproj.GenerateResource.Cache
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.exe
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.pdb
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版03\UACSView\obj\Debug\UACSView.View_CraneMonitor._Form_library_Monitor.resources
+D:\无人行车项目\项目开发资料\韶钢前台\02\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor._Form_library_Monitor.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csprojAssemblyReference.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor._Form_library_Monitor.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.CoreCompileInputs.cache
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.CopyComplete
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.exe
+D:\HMI_BAK\无人化项目#86调试版\UACSView\obj\Debug\UACSView.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csprojAssemblyReference.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor._Form_library_Monitor.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.exe
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#86调试版\UACSView\obj\Debug\UACSView.pdb
+C:\iPlature\SF_HOME\app\form\UACSView.exe.config
+C:\iPlature\SF_HOME\app\form\UACSView.exe
+C:\iPlature\SF_HOME\app\form\UACSView.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.csprojAssemblyReference.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.Properties.Resources.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCautionManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneCreateOrderManager.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CranefinishOrderManager.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneJobResultAnalysis.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneLiftActual.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage01.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage02.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneMessage03.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_FrmSaddleShow.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_L3MsgManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_ParkingSpaceUnLoad.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.UserWinForm.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form2.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor._Form_library_Monitor.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CraneMonitor.Form1.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.CarNo.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.FrmCarEntry.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.PorductMatManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilByL3Form.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.SelectCoilForm.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.SubFrmGetL3Stowage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.TagCarArrive.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInEnd.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.TagLaserInStart.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_Packing.TruckStowageInT.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.VIEW_ExitLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145EntryLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_ChainLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.VIEW_UnitSaddle.VIEW_H145ExitLineSaddle.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.csproj.GenerateResource.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.exe.licenses
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.csproj.CoreCompileInputs.cache
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.csproj.CopyComplete
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.exe
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.pdb
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_AlarmQuery.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_CraneWorkResultAnalyze.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.View_CarneMeage.Form_OrderManage.resources
+C:\Users\86178\Desktop\无人化项目#86调试版NEW\无人化项目#6调试版\UACSView\obj\Debug\UACSView.Form1.resources
